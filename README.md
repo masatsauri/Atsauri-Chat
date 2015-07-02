@@ -1,2 +1,0 @@
-# Atsauri-Chat
-Chatting sederhana
